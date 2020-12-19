@@ -1,5 +1,5 @@
 # React 😎 + Tailwind 💨 Project Starter Template 
-Click on Use this template or just `git clone https://github.com/tanmayhinge/react-tailwind-template.git` to get your copy of the setup.
+Use until create-react-app doesn't support PostCSS 8.
 
 ## How to use?
 1. Do `git clone https://github.com/tanmayhinge/react-tailwind-template.git` or easily [ Generate template](https://github.com/tanmayhinge/react-tailwind-template/generate)
@@ -12,4 +12,4 @@ I was using Tailwind with react a lot and felt the whole process of setting up t
 #### Why the fuss?
 Create React App doesn't support PostCSS 8 yet so you need to install the Tailwind CSS v2.0 PostCSS 7. Also since Create React App doesn't let you override the PostCSS configuration natively, CRACO is used.
 
-#### PPS: Star the repo if it helped you ⭐
+#### PS: Star the repo if it helped you ⭐
